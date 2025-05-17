@@ -1,2 +1,8 @@
 # Zoo
-My first project creating a zoo management system for animals within zoo. Created safeguards to ensure certain animals have specific limitations with eating, pooping, and neighboring animals within the zoo managment system.
+My first Java programming project creating a zoo management system for animals within zoo. 
+
+Tasks
+Created safeguards to ensure certain animals have specific limitations and functions:
+  -eating 
+  -poop 
+  -neighboring animals
